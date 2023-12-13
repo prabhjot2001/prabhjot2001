@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, fellow developer! 👋 Welcome to my GitHub repository, where I unleash my creativity and passion for web and app development.<br>👀 I’m tech⚡enthusiast and interested in the latest technologies and frameworks.<br>🚀 I’m currently learning Go language and Angular framework and exploring more.
+Hey there, fellow developer! 👋 Welcome to my GitHub repository, where I unleash my creativity and passion for web and app development.<br>👀 I’m tech⚡enthusiast and interested in the latest technologies and frameworks.<br>🚀 I’m currently learning Android development and exploring more.
 
 
 ## 🌐 Socials:
