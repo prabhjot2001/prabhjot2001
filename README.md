@@ -65,8 +65,9 @@
 <br/>  
 
 ###
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=prabhjot2001&&style=flat-square" align="center" />
-</div>  
+
+[![](https://visitcount.itsvg.in/api?id=prabhjot2001&icon=0&color=12)](https://visitcount.itsvg.in)
+
+
 
 ###
