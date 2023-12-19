@@ -59,14 +59,14 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+##   
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=prabhjot2001&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 ###
-
-<div align="left">
-</div>
-
-###
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=prabhjot2001&&style=flat-square" align="center" />
+</div>  
 
 ###
