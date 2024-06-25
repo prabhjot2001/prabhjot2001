@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://github.com/prabhjot2001/my-portfolio/blob/master/public/Prabhjot_Resume.pdf](https://github.com/prabhjot2001/my-portfolio/blob/master/public/Prabhjot_Resume.pdf)
 
-- ⚡ Fun fact **As a software developer, you possess the superpower to turn coffee and code into digital magic, creating apps and programs that make people's lives easier and more enjoyable! 🌟👨‍💻✨. THAT'S WHAT SHE SAID 🙃**
+- 📌📌📌 Fun fact **As a software developer, you possess the superpower to turn coffee and code into digital magic, creating apps and programs that make people's lives easier and more enjoyable! 🌟👨‍💻✨. THAT'S WHAT SHE SAID 🙃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
