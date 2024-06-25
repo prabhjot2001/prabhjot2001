@@ -1,9 +1,10 @@
+![MasterHead](https://www.levellr.com/suno/images/alementary/backgroundImage.png?v=37d1970e8df2dcf8f8d3c)
 <h1 align="center">Hi 👋, I'm Prabhjot</h1>
 <h3 align="center">I am Prabhjot Singh, a passionate Software Developer and a CSE graduate from Gyan Ganga Institute of Technology and Sciences.</h3>
+<img src="https://github.com/prabhjot2001/Layouts/blob/main/Login_Page/Assets/We%20are%20actively%20seeking%20a%20Angular%20%26%20Node_JS%20developer____.gif" align="right" width="400"/>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhjot2001&label=Profile%20views&color=0e75b6&style=flat" alt="prabhjot2001" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhjot2001&label=Profile%20views&color=0e75b6&style=flat" alt="prabhjot2001" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhjot2001" alt="prabhjot2001" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhjot2001" alt="prabhjot2001" /></a> </p> -->
 
 - 🔭 I’m currently working on [CodeShare](https://github.com/prabhjot2001/codeshare)
 
