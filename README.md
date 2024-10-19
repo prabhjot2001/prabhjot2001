@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/aa/a9/2d/aaa92dfb8b4f18822505574280da331c.gif)
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm Prabhjot</h1>
 <h3 align="center">I am Prabhjot Singh, a passionate Software Developer and a CSE graduate from Gyan Ganga Institute of Technology and Sciences.</h3>
 <img src="https://github.com/prabhjot2001/Layouts/blob/main/Login_Page/Assets/We%20are%20actively%20seeking%20a%20Angular%20%26%20Node_JS%20developer____.gif" align="right" width="400"/>
@@ -8,10 +8,6 @@
 
 - 🔭 I’m currently working on [CodeShare](https://github.com/prabhjot2001/codeshare)
 
-- 🌱 I’m currently learning **Kotlin and android development**
-
-- 👯 I’m looking to collaborate on [CodeShare](https://github.com/prabhjot2001/codeshare)
-
 - 👨‍💻 All of my projects are available at [https://prabhjot-portfolio.vercel.app/](https://prabhjot-portfolio.vercel.app/)
 
 - 💬 Ask me about **C++, Java, React, JavaScript, Node, DSA**
@@ -19,7 +15,7 @@
 - 📫 How to reach me **prabhjot1671@gmail.com**
 
 
-- 📌📌📌 Fun fact **As a software developer, you possess the superpower to turn coffee and code into digital magic, creating apps and programs that make people's lives easier and more enjoyable! 🌟👨‍💻✨. THAT'S WHAT SHE SAID 🙃**
+- 📌 Fun fact **As a software developer, you possess the superpower to turn coffee and code into digital magic, creating apps and programs that make people's lives easier and more enjoyable! 🌟👨‍💻✨. THAT'S WHAT SHE SAID 🙃**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
