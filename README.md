@@ -1,9 +1,9 @@
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhjot2001&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-<h1 align="center">Hi there, I'm Prabhjot</h1>
-<p align="center">I'm a passionate developer focused on Java, FullStack, DSA and other technologies.</p>
-
-## 🛠 Tech Stack
+<h2 align="center">I ♥ working with these technologies</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -91,16 +91,3 @@
 </div>
 
 
-## 💻 Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhjot2001&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhjot-singh001/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://prabhjot-portfolio.vercel.app/)
-
-
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=prabhjot2001)
