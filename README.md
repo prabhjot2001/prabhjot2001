@@ -8,40 +8,7 @@
 
 * When I’m not writing code, you can find me mentoring and guiding the next generation of tech enthusiasts. 💡
 
----
 
-### 🧑‍🚀 Current Endeavors & Projects
-
-- 💻 **Full Stack Developer**: React.js, Spring Boot, Node.js, MongoDB, Express
-- 🚀 **Learning**: Diving deeper into **Advanced Full Stack Development** with cutting-edge tools and frameworks
-- 🧑‍💻 **Fun Fact**: In JavaScript, `==` does not always mean equality, but it sure keeps things interesting!
-
----
-
-### ⚡ My Experience
-
-####  🧑‍💻 Freelance Developer (2024 - Present)
-
-Currently working as a freelance developer, delivering high-quality projects to clients across various industries. **Actively seeking a full-time job opportunity** to leverage my skills and contribute to innovative projects in a dynamic work environment.
-
----
-
-### 🔧 Tech Stack & Tools That Keep Me Going
-
-- **Languages:** JavaScript, Java, C++, SQL
-- **Frontend:** React.js, HTML, CSS, TypeScript
-- **Backend:** Node.js, Express.js, Spring Boot
-- **Databases:** MongoDB, MySQL
-- **Dev Tools:** Git
-
----
-
-### 🎯 My Mission: Code, Create, Conquer
-
-- **👾 Projects I’m Working On:**  
-  I'm always cooking up new projects and learning new tech. You can check out my repositories and see what I've been up to lately. 💻
-
----
 
 ### 🌍 Let’s Connect!
 
@@ -61,12 +28,6 @@ Currently working as a freelance developer, delivering high-quality projects to 
   <img src="https://github-readme-stats.vercel.app/api?username=prabhjot2001&theme=default&show_icons=true&hide_border=true&count_private=true" alt="prabhjot's Stats" width="57%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhjot2001&theme=default&show_icons=true&hide_border=true&layout=compact" alt="tanishk's Streak" width="42%" />
 </p>
-
----
-
-### 🚨 Random Fun Fact
-
-- **Fun Fact:** `0.1 + 0.2 !== 0.3` in JavaScript. Ain’t that strange? 🤓
 
 ---
 
